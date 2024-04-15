@@ -1,0 +1,11 @@
+const data = {
+  stringExample: 'Hello World', 
+  booleanExample: true, 
+  numberExample: 3.14159265, 
+  dateExample: firestore.Timestamp.fromDate(new Date('December 10, 1815')),
+  arrayExample: [5, true, 'hello'],
+  nullExample: null, 
+  objectExample: { a: 5, b: true }
+}
+                                            
+return 1;
