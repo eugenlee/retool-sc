@@ -1,1 +1,3 @@
-<App />
+<App>
+  <Include src="./header.rsx" />
+</App>
