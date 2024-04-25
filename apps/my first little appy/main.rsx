@@ -1,4 +1,5 @@
 <App>
+  <Include src="./header.rsx" />
   <Frame
     id="$main"
     enableFullBleed={false}
