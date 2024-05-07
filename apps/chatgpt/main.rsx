@@ -78,6 +78,5 @@
         waitType="debounce"
       />
     </Chat>
-    <Button id="button1" text="Button" />
   </Frame>
 </App>
