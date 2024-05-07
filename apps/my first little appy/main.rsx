@@ -14,9 +14,9 @@
       events={null}
       hidden={null}
       maintainSpaceWhenHidden={null}
+      marginType="normal"
       showInEditor={null}
-      value="# Customers
-"
+      value="# Customers"
       verticalAlign="center"
     />
     <TableLegacy
@@ -202,6 +202,5 @@
         />
       </ToolbarButton>
     </Table>
-    <Button id="button1" styleVariant="solid" text="Button" />
   </Frame>
 </App>
