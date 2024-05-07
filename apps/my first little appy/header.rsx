@@ -10,6 +10,7 @@
   <Navigation
     id="navigation1"
     itemMode="static"
+    marginType="normal"
     src="https://eugene-dev.retool.dev/83d4d9a1f1ecd17d111e6b4a014043cd.svg"
   >
     <Option
