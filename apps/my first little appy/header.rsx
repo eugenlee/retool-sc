@@ -1,0 +1,21 @@
+<Frame
+  id="$header"
+  enableFullBleed={null}
+  isHiddenOnDesktop={false}
+  isHiddenOnMobile={true}
+  padding="8px 12px"
+  sticky={true}
+  type="header"
+>
+  <Navigation
+    id="navigation1"
+    itemMode="static"
+    src="https://eugene-dev.retool.dev/83d4d9a1f1ecd17d111e6b4a014043cd.svg"
+  >
+    <Option
+      id="2d80c"
+      appTarget="8e3b0ffa-fb59-11ee-9ecd-db20307f9c72"
+      itemType="app"
+    />
+  </Navigation>
+</Frame>
