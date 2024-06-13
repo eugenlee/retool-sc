@@ -9,4 +9,10 @@
     resourceDisplayName="retool_ai"
     resourceName="retool_ai"
   />
+  <JavascriptQuery
+    id="query2"
+    notificationDuration={4.5}
+    resourceName="JavascriptQuery"
+    showSuccessToaster={false}
+  />
 </GlobalFunctions>
