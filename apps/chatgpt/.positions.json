@@ -1,13 +1,8 @@
 {
-  "chat1": {
-    "row": 1.6,
-    "col": 1,
-    "height": 16.8,
-    "width": 8
-  },
-  "navigation1": {
-    "subcontainer": "header",
+  "button1": {
+    "row": 18.4,
+    "col": 7,
     "height": 1,
-    "width": 12
+    "width": 2
   }
 }

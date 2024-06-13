@@ -3,7 +3,17 @@
   "version": "43.0.9",
   "pageUuid": "e4c0db0d-dabb-4a02-b8a0-eafc80146eac",
   "appTemplate": {
-    "version": "3.62.0",
+    "appTesting": {
+      "object": {
+        "testSuites": {
+          "array": []
+        },
+        "tests": {
+          "object": {}
+        }
+      }
+    },
+    "version": "3.63.0",
     "experimentalDataTabEnabled": true
   }
 }
