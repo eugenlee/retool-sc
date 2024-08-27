@@ -1,11 +1,17 @@
 {
-  "button1": {
-    "row": 18.4,
-    "col": 7,
-    "height": 1,
-    "width": 2
+  "chat1": {
+    "row": 2.8,
+    "col": 1,
+    "height": 9.6,
+    "width": 4
   },
   "navigation1": {
     "subcontainer": "header"
+  },
+  "textInput1": {
+    "row": 1.2,
+    "col": 1,
+    "height": 0.2,
+    "width": 4
   }
 }
