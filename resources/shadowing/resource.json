@@ -1,0 +1,28 @@
+{
+  "type": "mongodb",
+  "host": "cluster0.fa2uqjy.mongodb.net",
+  "port": null,
+  "databaseName": "",
+  "databaseUsername": "eugenelukelee",
+  "databasePassword": "",
+  "description": null,
+  "outboundRegion": null,
+  "ssl": true,
+  "editPrivilege": false,
+  "options": {
+    "version": "1",
+    "useDNSSeedList": true,
+    "connectionString": "",
+    "rejectUnauthorized": true,
+    "skipVerifyHostname": false,
+    "paramsFromConnectionString": [
+      ["retryWrites", "true"],
+      ["w", "majority"]
+    ],
+    "userExplicitlySetRejectUnauthorized": true
+  },
+  "environment": "production",
+  "dynamicallyQueryable": false,
+  "uuid": "6162457d-6e59-4b2e-ae09-5450a0efc5ac",
+  "toolscriptVersion": "1.0.0"
+}
