@@ -41,6 +41,7 @@
       avatarSrc="{{ current_user.profilePhotoUrl }}"
       emptyDescription="Send a message to chat with AI"
       emptyTitle="No messages here yet"
+      loading={false}
       placeholder="Type a message"
       queryTargetId="chat1_query2"
       showAvatar={true}
